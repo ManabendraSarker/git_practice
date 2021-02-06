@@ -1,5 +1,5 @@
 Hello Git and GitHub - Change
 
-Change should be in ls branch
+If pushed before pull this should create problem
 
 This should be pulled
